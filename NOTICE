@@ -1,0 +1,7 @@
+NovoMCP lead-optimization
+Copyright 2026 Quant NexusAI Inc. (NovoMCP)
+
+The code in this repository is licensed under the Apache License 2.0 (see LICENSE).
+
+Molecule handling (scaffold hopping, descriptors, QED) uses RDKit (BSD-3-Clause).
+No trained model weights or licensed datasets are distributed with this service.
